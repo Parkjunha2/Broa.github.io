@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 title: Texture Theme
 author: GitHub User
 email: your-email@domain.com
@@ -37,6 +38,22 @@ texture:
 
 # Build settings
 # theme: texture
+=======
+title: Mekyll theme demo
+email: 
+description: >
+  Mekyll - Medium-style theme for Jekyll
+baseurl: "https://parkjunha2.github.io/Broa.github.io/." # the subpath of your site, e.g. /blog
+url: "https://parkjunha2.github.io/Broa.github.io/." # the base hostname & protocol for your site
+postCount: 5 # the number of posts on the "index" page
+
+# Build settings
+markdown: redcarpet
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
+permalink   : /:year/:title/
+source: https://parkjunha2.github.io/Broa.github.io/.
+destination: ./_site
+>>>>>>> aa30d6ded32ebb256289c7083ed385784c96cc42
 
 plugins:
   - jekyll-seo-tag
