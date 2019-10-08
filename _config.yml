@@ -10,7 +10,7 @@ postCount: 5 # the number of posts on the "index" page
 markdown: redcarpet
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 permalink   : /:year/:title/
-source: ./
+source: https://parkjunha2.github.io/Broa.github.io/.
 destination: ./_site
 
 redcarpet:
